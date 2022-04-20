@@ -14,3 +14,4 @@ Papers are stored as PDFs in this repo, and books and their links are listed in 
 - [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B09G2GS39R?keywords=devops+handbook&qid=1643172362&sprefix=devops+han,aps,115&sr=8-1&linkCode=sl1&tag=utsavized0d-20&linkId=7eeab6c9220a7b0abc603d34cec50313&language=en_US&ref_=as_li_ss_tl)
 - [Software Engineering at Google](https://www.amazon.com/gp/product/1492082791/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=1492082791&linkId=76cbca5ffb8d03cccd311ba3e9e49ddf)
 - [Understanding Distributed Systems](https://www.amazon.com/gp/product/1838430202/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=1838430202&linkId=8f3007bbed9b958980492f5c0bb1105f)
+- [High Performance Python](https://www.oreilly.com/library/view/high-performance-python/9781492055013/)
